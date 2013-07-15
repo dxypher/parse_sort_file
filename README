@@ -5,3 +5,12 @@ output_2: Sorted by date of birth ascending
 output_3: Sorted by last name descending
 
 Finally each sorted CSV is printed out.
+
+To run the program:
+  ruby file_parser.rb
+
+To run the test suite:
+  ruby tests/test_suite.rb
+
+Ruby Version:
+  ruby 1.9.3p374
