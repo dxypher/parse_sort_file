@@ -1,0 +1,7 @@
+This program takes any number of files delimited by either a space, a pipe, or a comma, and an output_type. It then cleans, reorders the data in concistant way and combines it into a sigle CSV file with a headers. It then sorts the new CSV based on whatever output type you passed in when the program was run.
+
+output_1: Sorted first by gender then by last name ascending
+output_2: Sorted by date of birth ascending
+output_3: Sorted by last name descending
+
+Finally each sorted CSV is printed out.
